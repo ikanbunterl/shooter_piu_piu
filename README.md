@@ -55,12 +55,6 @@ pip install pygame
 ```bash
 python shooter_game.py
 ```
-⚠️ Catatan Aset:
-File gambar dan suara harus berada di folder yang sama dengan skrip: 
-
-Gambar: galaxy.jpg, rocket.png, ufo.png, asteroid.png, bullet.png
-Audio: space.ogg, fire.ogg
-(Preferensi: gunakan format JPG untuk gambar dan hindari ekstensi .mp3 untuk audio)
 
 📄 Lisensi
 Proyek ini dilisensikan di bawah MIT License.
