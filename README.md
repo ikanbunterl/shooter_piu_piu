@@ -59,7 +59,7 @@ python shooter_game.py
 📄 Lisensi
 Proyek ini dilisensikan di bawah MIT License.
 📝 Lihat teks lengkap lisensi di:
-👉 https://github.com/username/galactic-duel/blob/main/LICENSE
+👉 https://github.com/ikanbunterl/shooter_piu_piu/blob/main/LICENSE
 
 Dibuat dengan ❤️ untuk pecinta game retro, pemula Python, dan eksperimen AI sederhana.
 Siap menjadi legenda antariksa? Mainkan sekarang! 🌠
